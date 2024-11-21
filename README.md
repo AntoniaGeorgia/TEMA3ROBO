@@ -27,3 +27,8 @@ Each player will have their own buttons and LEDs, and the game will take place o
 
 ## Video
 [Video](https://youtu.be/qsjsgxqzRYw)
+
+
+https://github.com/user-attachments/assets/978a8421-6a23-4d95-b8d3-1a1bad949689
+
+
